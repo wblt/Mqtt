@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/wb/Downloads/Mqtt/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/wb/.android/build-cache/00ab201b81a9e70d2b6c577741e6dd3cbde8d5d6/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/wb/Downloads/Mqtt/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/wb/.android/build-cache/00ab201b81a9e70d2b6c577741e6dd3cbde8d5d6/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/wb/Downloads/MqttClientAndroid-master/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/wb/.android/build-cache/00ab201b81a9e70d2b6c577741e6dd3cbde8d5d6/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/wb/Downloads/MqttClientAndroid-master/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/wb/.android/build-cache/00ab201b81a9e70d2b6c577741e6dd3cbde8d5d6/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

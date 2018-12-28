@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/wb/Downloads/Mqtt/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/wb/.android/build-cache/00ab201b81a9e70d2b6c577741e6dd3cbde8d5d6/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/wb/Downloads/Mqtt/app/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/wb/.android/build-cache/00ab201b81a9e70d2b6c577741e6dd3cbde8d5d6/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/wb/Downloads/Mqtt/app/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Users/wb/.android/build-cache/00ab201b81a9e70d2b6c577741e6dd3cbde8d5d6/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/wb/Downloads/Mqtt/app/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Users/wb/.android/build-cache/00ab201b81a9e70d2b6c577741e6dd3cbde8d5d6/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/wb/Downloads/Mqtt/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/wb/.android/build-cache/00ab201b81a9e70d2b6c577741e6dd3cbde8d5d6/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/wb/Downloads/Mqtt/app/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Users/wb/.android/build-cache/00ab201b81a9e70d2b6c577741e6dd3cbde8d5d6/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/wb/Downloads/Mqtt/app/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Users/wb/.android/build-cache/00ab201b81a9e70d2b6c577741e6dd3cbde8d5d6/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/wb/Downloads/Mqtt/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/wb/.android/build-cache/00ab201b81a9e70d2b6c577741e6dd3cbde8d5d6/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/wb/Downloads/Mqtt/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/wb/.android/build-cache/00ab201b81a9e70d2b6c577741e6dd3cbde8d5d6/output/res/color/abc_secondary_text_material_dark.xml"
+    }
+]
