@@ -7,13 +7,16 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Toast;
 
+import com.alibaba.fastjson.JSON;
 import com.lichfaker.log.Logger;
 import com.lichfaker.mqttclientandroid.R;
 import com.lichfaker.mqttclientandroid.mqtt.MqttManager;
 
 import org.eclipse.paho.client.mqttv3.MqttException;
 import org.eclipse.paho.client.mqttv3.MqttMessage;
+import org.greenrobot.eventbus.EventBus;
 import org.greenrobot.eventbus.Subscribe;
+import org.json.JSONObject;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -25,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        EventBus.getDefault().register(this);
         findViewById(R.id.button1).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -81,7 +85,15 @@ public class MainActivity extends AppCompatActivity {
                 new Thread(new Runnable() {
                     @Override
                     public void run() {
-                        MqttManager.getInstance().subscribe("test", 2);
+                        boolean b = MqttManager.getInstance().subscribe("/aaa/bbb/547176052", 0);
+                        if (b) {
+                            MainActivity.this.runOnUiThread(new Runnable() {
+                                @Override
+                                public void run() {
+                                    Toast.makeText(MainActivity.this,"订阅成功", Toast.LENGTH_SHORT).show();
+                                }
+                            });
+                        }
                     }
                 }).start();
             }
@@ -115,7 +127,19 @@ public class MainActivity extends AppCompatActivity {
     @Subscribe
     public void onEvent(MqttMessage message) {
         Logger.d(message.toString());
-        Toast.makeText(MainActivity.this,message.toString(), Toast.LENGTH_SHORT).show();
+        Looper.prepare();
+        com.alibaba.fastjson.JSONObject bb = JSON.parseObject(message.toString());
+        com.alibaba.fastjson.JSONObject payload = bb.getJSONObject("payload");
+        final String deviceType = payload.getString("deviceType");
+        MainActivity.this.runOnUiThread(new Runnable() {
+            @Override
+            public void run() {
+                Toast.makeText(MainActivity.this,"deviceType： "+deviceType, Toast.LENGTH_SHORT).show();
+            }
+        });
+
+        Looper.loop();
+
     }
 
     @Override
@@ -133,6 +157,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onDestroy() {
         super.onDestroy();
+        EventBus.getDefault().unregister(this);
     }
 
 
