@@ -2,8 +2,6 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 23
-    buildToolsVersion '25.0.0'
-
     defaultConfig {
         applicationId "com.lichfaker.mqttclientandroid"
         minSdkVersion 14
@@ -29,4 +27,6 @@ dependencies {
     compile 'org.greenrobot:eventbus:3.0.0'
     // Logger
     compile 'com.github.LichFaker:Logger:v1.0.0'
+
+    compile 'com.alibaba:fastjson:1.2.54'
 }

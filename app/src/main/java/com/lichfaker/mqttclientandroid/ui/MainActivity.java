@@ -115,6 +115,7 @@ public class MainActivity extends AppCompatActivity {
     @Subscribe
     public void onEvent(MqttMessage message) {
         Logger.d(message.toString());
+        Toast.makeText(MainActivity.this,message.toString(), Toast.LENGTH_SHORT).show();
     }
 
     @Override

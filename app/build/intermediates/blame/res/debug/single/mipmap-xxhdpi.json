@@ -4,6 +4,10 @@
         "source": "/Users/wb/Downloads/Mqtt/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
     {
+        "merged": "/Users/wb/Desktop/Mqtt/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/wb/Desktop/Mqtt/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/wb/Downloads/MqttClientAndroid-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
         "source": "/Users/wb/Downloads/MqttClientAndroid-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     }
