@@ -1,65 +1,94 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/wb/Downloads/Mqtt/app/src/main/AndroidManifest.xml:1:1-24:12
+ADDED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml:1:1-24:12
+INJECTED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml:1:1-24:12
+INJECTED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml:1:1-24:12
+INJECTED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml:1:1-24:12
+MERGED from [com.github.LichFaker:Logger:v1.0.0] /Users/wb/.gradle/caches/transforms-1/files-1.1/Logger-v1.0.0.aar/4848d359032d2a4e36a1c7c3d1365936/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:23.2.1] /Users/wb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/9352e8233bbad5583e3ccd908a0b8c1d/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /Users/wb/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.1.aar/e3f1e69c6a9fa07e08aad65e24dcde69/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /Users/wb/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.1.aar/1b476d67bc7e6410dd5f30198208adc4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.2.1] /Users/wb/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/8ce577e88bdb22dcf5d7612cb6665ffa/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml:1:1-24:12
+INJECTED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml:1:1-24:12
+INJECTED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml:1:1-24:12
 	package
-		ADDED from /Users/wb/Downloads/Mqtt/app/src/main/AndroidManifest.xml:2:5-46
-		INJECTED from /Users/wb/Downloads/Mqtt/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/wb/Downloads/Mqtt/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml:2:5-46
+		INJECTED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/wb/Downloads/Mqtt/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/wb/Downloads/Mqtt/app/src/main/AndroidManifest.xml
-	xmlns:android
-		ADDED from /Users/wb/Downloads/Mqtt/app/src/main/AndroidManifest.xml:1:11-69
+		INJECTED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml:1:1-24:12
+		INJECTED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/wb/Downloads/Mqtt/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/wb/Downloads/Mqtt/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml:1:1-24:12
+		INJECTED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/wb/Downloads/Mqtt/app/src/main/AndroidManifest.xml:5:5-67
+ADDED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from /Users/wb/Downloads/Mqtt/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /Users/wb/Downloads/Mqtt/app/src/main/AndroidManifest.xml:7:5-22:19
-MERGED from [com.github.LichFaker:Logger:v1.0.0] /Users/wb/.android/build-cache/1d1f6def9e7bfb035c30b4f1c78f9a9bcda46048/output/AndroidManifest.xml:11:5-15:19
-MERGED from [com.android.support:appcompat-v7:23.2.1] /Users/wb/.android/build-cache/00ab201b81a9e70d2b6c577741e6dd3cbde8d5d6/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.2.1] /Users/wb/.android/build-cache/db3949cc9843cf50100d95312b0b3216fd841f0d/output/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.2.1] /Users/wb/.android/build-cache/052994077408fed95723ffbd20751697e5c1814c/output/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.2.1] /Users/wb/.android/build-cache/547b4d00e1a8380b5a1dec4f132d2987c6ea72a6/output/AndroidManifest.xml:22:5-20
-	android:label
-		ADDED from /Users/wb/Downloads/Mqtt/app/src/main/AndroidManifest.xml:10:9-41
+ADDED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml:7:5-22:19
+MERGED from [com.github.LichFaker:Logger:v1.0.0] /Users/wb/.gradle/caches/transforms-1/files-1.1/Logger-v1.0.0.aar/4848d359032d2a4e36a1c7c3d1365936/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.LichFaker:Logger:v1.0.0] /Users/wb/.gradle/caches/transforms-1/files-1.1/Logger-v1.0.0.aar/4848d359032d2a4e36a1c7c3d1365936/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:23.2.1] /Users/wb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/9352e8233bbad5583e3ccd908a0b8c1d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.1] /Users/wb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/9352e8233bbad5583e3ccd908a0b8c1d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /Users/wb/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.1.aar/e3f1e69c6a9fa07e08aad65e24dcde69/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /Users/wb/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.1.aar/e3f1e69c6a9fa07e08aad65e24dcde69/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /Users/wb/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.1.aar/1b476d67bc7e6410dd5f30198208adc4/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /Users/wb/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.1.aar/1b476d67bc7e6410dd5f30198208adc4/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /Users/wb/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/8ce577e88bdb22dcf5d7612cb6665ffa/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /Users/wb/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/8ce577e88bdb22dcf5d7612cb6665ffa/AndroidManifest.xml:22:5-20
 	android:supportsRtl
-		ADDED from /Users/wb/Downloads/Mqtt/app/src/main/AndroidManifest.xml:11:9-35
-	android:allowBackup
-		ADDED from /Users/wb/Downloads/Mqtt/app/src/main/AndroidManifest.xml:8:9-35
+		ADDED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml:10:9-41
 	android:icon
-		ADDED from /Users/wb/Downloads/Mqtt/app/src/main/AndroidManifest.xml:9:9-43
+		ADDED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from /Users/wb/Downloads/Mqtt/app/src/main/AndroidManifest.xml:12:9-40
+		ADDED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml:12:9-40
 activity#com.lichfaker.mqttclientandroid.ui.MainActivity
-ADDED from /Users/wb/Downloads/Mqtt/app/src/main/AndroidManifest.xml:14:9-20:20
+ADDED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from /Users/wb/Downloads/Mqtt/app/src/main/AndroidManifest.xml:14:19-50
+		ADDED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml:14:19-50
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/wb/Downloads/Mqtt/app/src/main/AndroidManifest.xml:15:13-19:29
+ADDED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from /Users/wb/Downloads/Mqtt/app/src/main/AndroidManifest.xml:16:17-69
+ADDED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from /Users/wb/Downloads/Mqtt/app/src/main/AndroidManifest.xml:16:25-66
+		ADDED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/wb/Downloads/Mqtt/app/src/main/AndroidManifest.xml:18:17-77
+ADDED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from /Users/wb/Downloads/Mqtt/app/src/main/AndroidManifest.xml:18:27-74
+		ADDED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml:18:27-74
 uses-sdk
-INJECTED from /Users/wb/Downloads/Mqtt/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.github.LichFaker:Logger:v1.0.0] /Users/wb/.android/build-cache/1d1f6def9e7bfb035c30b4f1c78f9a9bcda46048/output/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:23.2.1] /Users/wb/.android/build-cache/00ab201b81a9e70d2b6c577741e6dd3cbde8d5d6/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:23.2.1] /Users/wb/.android/build-cache/db3949cc9843cf50100d95312b0b3216fd841f0d/output/AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.2.1] /Users/wb/.android/build-cache/052994077408fed95723ffbd20751697e5c1814c/output/AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.2.1] /Users/wb/.android/build-cache/547b4d00e1a8380b5a1dec4f132d2987c6ea72a6/output/AndroidManifest.xml:20:5-43
+INJECTED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml
+MERGED from [com.github.LichFaker:Logger:v1.0.0] /Users/wb/.gradle/caches/transforms-1/files-1.1/Logger-v1.0.0.aar/4848d359032d2a4e36a1c7c3d1365936/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.LichFaker:Logger:v1.0.0] /Users/wb/.gradle/caches/transforms-1/files-1.1/Logger-v1.0.0.aar/4848d359032d2a4e36a1c7c3d1365936/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.2.1] /Users/wb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/9352e8233bbad5583e3ccd908a0b8c1d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.2.1] /Users/wb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/9352e8233bbad5583e3ccd908a0b8c1d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /Users/wb/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.1.aar/e3f1e69c6a9fa07e08aad65e24dcde69/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /Users/wb/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.1.aar/e3f1e69c6a9fa07e08aad65e24dcde69/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /Users/wb/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.1.aar/1b476d67bc7e6410dd5f30198208adc4/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /Users/wb/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.1.aar/1b476d67bc7e6410dd5f30198208adc4/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.1] /Users/wb/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/8ce577e88bdb22dcf5d7612cb6665ffa/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.1] /Users/wb/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/8ce577e88bdb22dcf5d7612cb6665ffa/AndroidManifest.xml:20:5-43
+INJECTED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.2.1] /Users/wb/.android/build-cache/00ab201b81a9e70d2b6c577741e6dd3cbde8d5d6/output/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:23.2.1] /Users/wb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/9352e8233bbad5583e3ccd908a0b8c1d/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /Users/wb/Downloads/Mqtt/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/wb/Downloads/Mqtt/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/wb/Downloads/Mqtt/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/wb/Downloads/Mqtt/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wb/Desktop/Mqtt/app/src/main/AndroidManifest.xml

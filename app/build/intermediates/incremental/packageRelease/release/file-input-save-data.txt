@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Jan 17 22:31:30 CST 2019
+0.baseType=DIRECTORY
+0.base=/Users/wb/Desktop/Mqtt/app/build/intermediates/transforms/dex/release/0
+0.path=classes.dex
+0.set=DEX
+count=1

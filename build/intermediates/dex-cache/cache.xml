@@ -3,84 +3,103 @@
 
     <item
         is-multidex="false"
-        jar="/Users/wb/.gradle/caches/modules-2/files-2.1/org.eclipse.paho/org.eclipse.paho.client.mqttv3/1.0.2/11752d3f24d1a9deda4533a7ca18d8496417ceeb/org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jar="/Users/wb/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.1.aar/e3f1e69c6a9fa07e08aad65e24dcde69/jars/classes.jar"
         jumboMode="false"
+        min-sdk-version="14"
         optimize="true"
-        revision="25.0.0"
-        sha1="11752d3f24d1a9deda4533a7ca18d8496417ceeb">
-        <dex dex="/Users/wb/Downloads/MqttClientAndroid-master/app/build/intermediates/pre-dexed/debug/org.eclipse.paho.client.mqttv3-1.0.2_8e17ea9744f227a6ea0ed98ec7b8f9a1f30bcf44.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/wb/.android/build-cache/052994077408fed95723ffbd20751697e5c1814c/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="673d77a5bbddd766037f088e775df525c46407f0">
-        <dex dex="/Users/wb/Downloads/MqttClientAndroid-master/app/build/intermediates/pre-dexed/debug/classes_fb9d084673d599f12981c2f92912b6745cc1efa9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/wb/.android/build-cache/1d1f6def9e7bfb035c30b4f1c78f9a9bcda46048/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="faa26175f8b41a8c4929afd579d5c2cd29ce3926">
-        <dex dex="/Users/wb/Downloads/MqttClientAndroid-master/app/build/intermediates/pre-dexed/debug/classes_d676dcb7ea1426447da1f9a1f4cb0379ab195055.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/wb/.android/build-cache/547b4d00e1a8380b5a1dec4f132d2987c6ea72a6/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
-        <dex dex="/Users/wb/Downloads/MqttClientAndroid-master/app/build/intermediates/pre-dexed/debug/classes_87d7ef3ba51b845e95fe74ce73697eca80c464d0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/wb/.android/build-cache/db3949cc9843cf50100d95312b0b3216fd841f0d/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
+        revision="26.0.2"
         sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
-        <dex dex="/Users/wb/Downloads/MqttClientAndroid-master/app/build/intermediates/pre-dexed/debug/classes_33784a7df947f4ac8fa5c2119dc5654e68161e39.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/wb/.android/build-cache/00ab201b81a9e70d2b6c577741e6dd3cbde8d5d6/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
-        <dex dex="/Users/wb/Downloads/MqttClientAndroid-master/app/build/intermediates/pre-dexed/debug/classes_48eef7d4fe1ae0b57610dbbf3b5cc1f442a7e983.jar" />
+        <dex dex="/Users/wb/Desktop/Mqtt/app/build/intermediates/transforms/preDex/release/6.jar" />
     </item>
     <item
         is-multidex="false"
         jar="/Users/wb/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
         jumboMode="false"
+        min-sdk-version="14"
         optimize="true"
-        revision="25.0.0"
+        revision="26.0.2"
         sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
-        <dex dex="/Users/wb/Downloads/MqttClientAndroid-master/app/build/intermediates/pre-dexed/debug/eventbus-3.0.0_d0d664e81d78b972387c461f8854f86133e96f28.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/wb/.android/build-cache/547b4d00e1a8380b5a1dec4f132d2987c6ea72a6/output/jars/libs/internal_impl-23.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
-        <dex dex="/Users/wb/Downloads/MqttClientAndroid-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_a056aa7b0a97716818b5df6b5382d23c46d9355d.jar" />
+        <dex dex="/Users/wb/Desktop/Mqtt/app/build/intermediates/transforms/preDex/release/4.jar" />
     </item>
     <item
         is-multidex="false"
         jar="/Users/wb/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
         jumboMode="false"
+        min-sdk-version="14"
         optimize="true"
-        revision="25.0.0"
+        revision="26.0.2"
         sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
-        <dex dex="/Users/wb/Downloads/MqttClientAndroid-master/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_bfa9752167e898fde086e55e4a81261b21bb1a95.jar" />
+        <dex dex="/Users/wb/Desktop/Mqtt/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wb/.gradle/caches/transforms-1/files-1.1/Logger-v1.0.0.aar/4848d359032d2a4e36a1c7c3d1365936/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="faa26175f8b41a8c4929afd579d5c2cd29ce3926">
+        <dex dex="/Users/wb/Desktop/Mqtt/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wb/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/8ce577e88bdb22dcf5d7612cb6665ffa/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/wb/Desktop/Mqtt/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wb/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/8ce577e88bdb22dcf5d7612cb6665ffa/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/wb/Desktop/Mqtt/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wb/.gradle/caches/modules-2/files-2.1/com.alibaba/fastjson/1.2.54/dfc0337c9c49022caccb8aa928af13e751d3c43b/fastjson-1.2.54.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dfc0337c9c49022caccb8aa928af13e751d3c43b">
+        <dex dex="/Users/wb/Desktop/Mqtt/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wb/.gradle/caches/modules-2/files-2.1/org.eclipse.paho/org.eclipse.paho.client.mqttv3/1.0.2/11752d3f24d1a9deda4533a7ca18d8496417ceeb/org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="11752d3f24d1a9deda4533a7ca18d8496417ceeb">
+        <dex dex="/Users/wb/Desktop/Mqtt/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/9352e8233bbad5583e3ccd908a0b8c1d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/wb/Desktop/Mqtt/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wb/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.1.aar/1b476d67bc7e6410dd5f30198208adc4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/wb/Desktop/Mqtt/app/build/intermediates/transforms/preDex/release/7.jar" />
     </item>
 
 </items>

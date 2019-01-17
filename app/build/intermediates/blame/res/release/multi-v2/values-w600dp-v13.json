@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/wb/Desktop/Mqtt/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-w600dp-v13/values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/wb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/9352e8233bbad5583e3ccd908a0b8c1d/res/values-w600dp-v13/values-w600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,119",
+                        "endColumns": "63,54",
+                        "endOffsets": "114,169"
+                    }
+                }
+            ]
+        }
+    ]
+}

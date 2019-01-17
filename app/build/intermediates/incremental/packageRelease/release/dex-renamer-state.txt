@@ -1,0 +1,4 @@
+#Thu Jan 17 22:31:30 CST 2019
+base.0=/Users/wb/Desktop/Mqtt/app/build/intermediates/transforms/dex/release/0
+path.0=classes.dex
+renamed.0=classes.dex

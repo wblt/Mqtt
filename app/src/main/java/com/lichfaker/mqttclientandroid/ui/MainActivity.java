@@ -127,7 +127,6 @@ public class MainActivity extends AppCompatActivity {
     @Subscribe
     public void onEvent(MqttMessage message) {
         Logger.d(message.toString());
-        Looper.prepare();
         com.alibaba.fastjson.JSONObject bb = JSON.parseObject(message.toString());
         com.alibaba.fastjson.JSONObject payload = bb.getJSONObject("payload");
         final String deviceType = payload.getString("deviceType");
@@ -137,9 +136,6 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(MainActivity.this,"deviceType： "+deviceType, Toast.LENGTH_SHORT).show();
             }
         });
-
-        Looper.loop();
-
     }
 
     @Override
